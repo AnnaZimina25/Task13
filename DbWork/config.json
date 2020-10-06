@@ -1,0 +1,13 @@
+{
+  "DbHost": "127.0.0.1",
+  "SuperUser": {
+    "login": "postgres",
+    "password": "AnnaZimina25",
+    "databaseName": "postgres"
+  },
+  "User": {
+    "login": "zimina",
+    "password": "uhoih8uoiujl",
+    "databaseName": "ziminadb"
+  }
+}

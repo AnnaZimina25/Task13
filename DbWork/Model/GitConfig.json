@@ -1,0 +1,13 @@
+{
+  "DbHost": "127.0.0.1",
+  "SuperUser": {
+    "login": "",
+    "password": "",
+    "databaseName": ""
+  },
+  "User": {
+    "login": "",
+    "password": "",
+    "databaseName": ""
+  }
+}
